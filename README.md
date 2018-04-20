@@ -1,4 +1,4 @@
-# imagefreet
+# imagefleet
 
 ubuntu16.04
 python 3.5.2
